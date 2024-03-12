@@ -1,7 +1,7 @@
 ------------------------+------------------------------------------------------
 %%% SIMULATION MENU %%% :
-Start YYYYMMDD, hhmmss  : 20130701 000000
-End   YYYYMMDD, hhmmss  : 20131001 000000
+Start YYYYMMDD, hhmmss  : 20130101 000000
+End   YYYYMMDD, hhmmss  : 20130401 000000
 Run directory           : ./
 Root data directory     : /share/iodata/ctm/ExtData
 Met field               : MERRA2
