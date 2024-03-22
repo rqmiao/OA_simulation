@@ -1,0 +1,10 @@
+This run directory was created with /home/mrq/GEOS/13.3.1/GCClassic/src/GEOS-Chem/run/GCClassic/createRunDir.sh.
+ 
+GEOS-Chem repository version information:
+
+  Remote URL: https://github.com/geoschem/geos-chem.git
+  Branch: HEAD
+  Commit: Merge branch 'patch/13.3.1' into release
+  Date: Mon Nov 15 11:32:22 2021 -0500
+  User: Bob Yantosca
+  Hash: e9a4f1f98
