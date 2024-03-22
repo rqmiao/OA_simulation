@@ -1,6 +1,5 @@
 ## Description
-This repository contains the run directory for GEOS-Chem "Classic" with the improved OA simulation scheme. 
-The code development is based on GEOS-Chem 13.3.1, which is available at https://zenodo.org/record/5703364.
+This repository contains the revised GEOS-Chem code and the run directory for the OA simulation performed by Chen et al. (2024). 
 
 ## User Manuals
 For GEOS-Chem "Classic", please see: https://geos-chem.readthedocs.io
