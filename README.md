@@ -1,5 +1,5 @@
 ## Description
-This repository contains the revised GEOS-Chem code and the run directory for the OA simulation performed by Chen et al. (2024). 
+This repository contains the revised GEOS-Chem code, the run directory, and the codes for analysis and drawing figures for the OA simulation performed by Chen et al. (2024). 
 
 ## User Manuals
 For GEOS-Chem "Classic", please see: https://geos-chem.readthedocs.io
